@@ -1,1 +1,1 @@
-# lovable-bare-bones
+# initial-space-prep
